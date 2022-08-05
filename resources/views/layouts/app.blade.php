@@ -52,7 +52,7 @@
   Devs'tagram - todos los derechos reservados {{ now()->year }}
 </footer>
 @livewireScripts
-<script src="{{asset('vendor/livewire/livewire.js')}}"></script>
+
 @stack('script')
 
 </body>
